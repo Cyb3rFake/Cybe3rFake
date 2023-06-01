@@ -5,6 +5,7 @@
 <h3 align="left">Check profile:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/cyb3rfake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cyb3rfake" height="30" width="40" /></a>
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/Cyb3rFake) 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
