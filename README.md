@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Cyb3rfake</h1> -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=junior+python+developer)](https://git.io/typing-svg)
-<h3 align="center">I'm junior Python Developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi, I'm junior+python+developer)](https://git.io/typing-svg)
+<!-- <h3 align="center">I'm junior Python Developer</h3> -->
 
 <h3 align="left">Check profile:</h3>
 <p align="left">
